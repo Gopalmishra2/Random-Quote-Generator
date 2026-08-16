@@ -84,6 +84,7 @@ https://github.com/Gopalmishra2
 
 **LinkedIn:**  
 (https://www.linkedin.com/in/gopal-mishra1/)
+Live Project https://random-quote-generator-8pju.onrender.com
 
 ---
 
